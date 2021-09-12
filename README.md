@@ -5,3 +5,4 @@ rust lang learning progress
 2. common_programming_concepts
     1. variables_and_mutability
     2. data_types
+    3. functions
