@@ -6,3 +6,4 @@ rust lang learning progress
     1. variables_and_mutability
     2. data_types
     3. functions
+    4. control_flow
