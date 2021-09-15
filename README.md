@@ -7,3 +7,5 @@ rust lang learning progress
     2. data_types
     3. functions
     4. control_flow
+3. assignments
+    1. temperature_converter
