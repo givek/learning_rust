@@ -9,3 +9,4 @@ rust lang learning progress
     4. control_flow
 3. assignments
     1. temperature_converter
+    2. fibonacci_number_generator
